@@ -1,12 +1,12 @@
-Computational Method - LaGrange Interpolation Ploynomial
+Computational Method - Least Squares
 =======================================
-计算方法 - 拉格朗日插值法
+计算方法 - 最小二乘法（线性化拟合）
 ---------------------------------------
 Author:	Amoiensis
 
 Email: 	Amoiensis@outlook.com
 
-Data:2019.10.09
+Data:2019.10.15
 ***************************************************************
 更多数模赛题：
 
@@ -14,13 +14,9 @@ https://github.com/Amoiensis/Computational-Method
 ***************************************************************
 CONTENT
 ---------------------------------------
-1. Main.m
+1. Least_Squares.m
 
-2. LaGrange_Interpolation.m
-
-3. LaGrange.m
-
-4. Statement.md
+2. Statement.md
 
 （注： PDF文件均有权限设置；如有其他需要请同笔者联系。）
 ***************************************************************
