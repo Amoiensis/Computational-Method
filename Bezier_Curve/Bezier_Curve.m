@@ -1,5 +1,5 @@
 %%
-% Author: YXP
+% Author: Amoiensis
 % Date: 2019.10.15
 % Homework 10.15
 % Experiment: #9 -- Bezier Curve
