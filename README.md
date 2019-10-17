@@ -21,9 +21,9 @@ https://github.com/Amoiensis/Computational-Method
 
 1. [Simplex Method](https://github.com/Amoiensis/Operational-Research/tree/master/Simplex_Method)   单纯形法
 
-2. []
+2. [Least Squares](https://github.com/Amoiensis/Computational-Method/tree/master/Least_Squares)	最小二乘法(线性化拟合)
 
-3. []
+3. [Bezier Curve](https://github.com/Amoiensis/Computational-Method/tree/master/Bezier_Curve)	贝塞尔曲线	
 
 OVERVIEW
 ---------------------------------------
