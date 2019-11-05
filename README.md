@@ -25,6 +25,8 @@ https://github.com/Amoiensis/Computational-Method
 
 3. [Bezier Curve](https://github.com/Amoiensis/Computational-Method/tree/master/Bezier_Curve)	贝塞尔曲线	
 
+4. [Romberg Quadrature](https://github.com/Amoiensis/Computational-Method/tree/master/Romberg_Quadrature) 龙贝格积分法
+
 OVERVIEW
 ---------------------------------------
 
