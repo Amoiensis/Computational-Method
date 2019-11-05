@@ -1,6 +1,6 @@
-Computational Method - Least Squares
+Computational Method - Romberg_Quadrature
 =======================================
-计算方法 - 最小二乘法（线性化拟合）
+计算方法 - 龙贝格法求积分
 ---------------------------------------
 Author:	Amoiensis
 
@@ -14,9 +14,11 @@ https://github.com/Amoiensis/Computational-Method
 ***************************************************************
 CONTENT
 ---------------------------------------
-1. Least_Squares.m
+1. function_.m
 
-2. Statement.md
+2. Romberg_quadrature.m
+
+3. Statement.md
 
 （注： PDF文件均有权限设置；如有其他需要请同笔者联系。）
 ***************************************************************
