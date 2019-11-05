@@ -5,7 +5,7 @@ Computational Method
 ---------------------------------------
 Author: Amoiensis
 
-Email:  yxp189@protonmail.com
+Email:  Amoiensis@outlook.com
 
 Date: 2019.10.15
 
